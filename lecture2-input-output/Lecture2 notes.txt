@@ -1,0 +1,31 @@
+Output
+
+
+java is typed language
+
+data types
+
+primitive data types
+
+byte 1 byte / 8 bits
+short 2
+int 4 
+long 8
+float 4 
+double 8
+char 2 bytes
+boolean 1
+
+non-primitive data types
+
+String 
+Array
+Class
+Object
+Interface
+
+// Bodmas
+
+operator
+
+input
