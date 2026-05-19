@@ -1,0 +1,4 @@
+Time Complexity:-
+    Relation between Input size and Running time(Operation).
+
+    
